@@ -5,6 +5,8 @@ double space needed for line break
 
 <hr> 
 
+### All Headings <hr>
+
 # This is Heading 1
 ## This is Heading 2
 ### This is Heading 3
